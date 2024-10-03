@@ -1,9 +1,9 @@
 # 👋 Hi, welcome! I'm Exequiel.
 
 ## About Me
-I'm a developer with experience in technologies like **React**, **Next.js**, **Typescript**, **Javascript**, **Vite**, **Node.js**, and **Docker**. I love working on projects that involve **software architecture**, **design patterns**, and **web application development**.
+I'm a developer with experience in technologies like **React**, **Next.js**, **Typescript**, **Javascript**, **Vite**, **Node.js**, and **Docker**. I love working on projects that involve **software architecture**, **design patterns**, and improve the **user experience** with dedicated **user interfaces**.
 
-- 🌱 Currently learning **Unit testing with Jest, React Testing Library and Vitets** and **Three.js**.
+- 🌱 Currently learning **Unit testing with Jest, React Testing Library, Vitets** and **Three.js**.
 
 ## Technologies & Tools
 - **Languages**: TypeScript, JavaScript, HTML, CSS
@@ -23,5 +23,4 @@ I'm a developer with experience in technologies like **React**, **Next.js**, **T
 - 💼 LinkedIn: [Exequiel De Carlini](https://linkedin.com/in/exequieldecarlini)
 
 ---
-
-_Thank you for visiting my profile!_
+_Keep cooding!_
