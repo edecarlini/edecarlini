@@ -3,7 +3,7 @@
 ## About Me
 I'm a developer with experience in technologies like **React**, **Next.js**, **Typescript**, **Javascript**, **Vite**, **Node.js**, and **Docker**. I love working on projects that involve **software architecture**, **design patterns**, and improve the **user experience** with dedicated **user interfaces**.
 
-- 🌱 Currently learning **Unit testing with Jest, React Testing Library, Vitets** and **Three.js**.
+- 🌱 Currently learning **React three fiber**.
 
 ## Technologies & Tools
 - **Languages**: TypeScript, JavaScript, HTML, CSS
